@@ -1,0 +1,19 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "Awesome lists about all kinds of interesting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoroastrian-Digital-Humanities/Awesome.git"
+  },
+  "author": "Henri d'Orgeval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoroastrian-Digital-Humanities/Awesome/issues"
+  },
+  "homepage": "https://github.com/Zoroastrian-Digital-Humanities/Awesome#readme"
+}
