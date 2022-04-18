@@ -2,6 +2,10 @@
 
 Awesome lists about all kinds of interesting topics
 
+## Old Inscriptions
+
+* [Centuries-old inscription discovered near Istakhr ancient city](https://www.tehrantimes.com/news/468890/Centuries-old-inscription-discovered-near-Istakhr-ancient-city)
+
 ## Historical Characters
 
 ### Anquetil-Duperron
